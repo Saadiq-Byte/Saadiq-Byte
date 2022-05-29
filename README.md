@@ -5,7 +5,7 @@
 <!--
 **Saadiq-Byte/saadiq-Byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on HTLM, CSS, and JavaScript
 - 🌱 I’m currently learning fullsack developer
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Badejosodiq11@gmail.com
 - 😄 Pronouns: Mr Byte
 - ⚡ Fun fact: Great Dancer
--->
+
