@@ -13,5 +13,5 @@ Here are some ideas to get you started:-->
 - 🤔 I’m looking for help with landing an Intership
 - 📫 How to reach me: Badejosodiq11@gmail.com
 - 😄 Pronouns: Mr Byte
-- ⚡ Fun fact: Great Dancer
+- ⚡ Fun fact: I am Great Dancer
 
