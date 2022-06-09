@@ -5,12 +5,10 @@
 <P>Pronouns are: He/ogbeni</P>
 
 <!--
-**Saadiq-Byte/saadiq-Byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
+**Saadiq-Byte/saadiq-Byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile :-->
 
   
-- 🔭 I’m currently working on rebuilding y porfolio website
+- 🔭 I’m currently working on rebuilding my porfolio website
 
 - 🌱 I’m currently learning JavaScript
 
@@ -25,20 +23,18 @@ Here are some ideas to get you started:-->
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1RroXXHrPoFqYLjueH1P-4Ys2DeNFWM4-1dQHru8tg6c/edit?usp=sharing" class="button">Download Resume</a>
 
 - ⚡ Fun fact: I'm a Power plant Engineer!
+   
+  [![Sodiq's github stats](https://github-readme-stats.vercel.app/api?username=saadiq-byte&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/saadiq-byte/github-readme-stats)
   
-  <p style="background-color:Tomato;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadiq-byte&show_icons=true&locale=en" alt="saadiq-byte" /></p>
-  
-<!-- connect profile link  -->
+<!-- social section  -->
 <h3 align="left">Connect with me:</h3> 
 
-<!-- Twitter link -->
-<p align="left">
 <!-- twitter link profie -->
 <a href="https://twitter.com/ogbenisodiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ogbenisodiq" height="30" width="40" /></a> 
-</p>
 
-<p align="left">
+
+<!-- codepan link profile -->
 <a href="https://codepen.io/https://codepen.io/code_engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/code_engineer" height="30" width="40" /></a>
-</p>
 
+<!--profile visit count  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadiq-byte&label=Profile%20views&color=0e75b6&style=flat" alt="saadiq-byte" /> </p>
