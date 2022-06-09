@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I,m Sodiq Badejo
 
 ### Now that you are here, let me show you around ! 
 
@@ -12,6 +12,6 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on Project
 - 🤔 I’m looking for help with landing an Intership
 - 📫 How to reach me: Badejosodiq11@gmail.com
-- 😄 Pronouns: Mr Byte
+- 😄 Pronouns: Simply call me SB
 - ⚡ Fun fact: I am Great Dancer
 
