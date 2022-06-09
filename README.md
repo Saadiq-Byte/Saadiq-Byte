@@ -8,6 +8,8 @@ Here are some ideas to get you started:-->
 -<h1 align="center">Hi there 👋 I,m Sodiq Badejo</h1>
 <h3 align="center">A passionate full-stack developer from Nigeria</h3>
 
+<hr style=>
+
 - 🔭 I’m currently working on **Personal branding**
 
 - 🌱 I’m currently learning **HTML/CSS, and JavaScript**
