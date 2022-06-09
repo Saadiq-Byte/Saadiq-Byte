@@ -1,13 +1,8 @@
-<head>
-![Web App developer (1)](https://user-images.githubusercontent.com/85496076/172890141-e180b737-3998-450a-afde-ef54bc827974.png)
-
-<h1 align="center">Hi there 👋 I,m Sodiq Badejo</h1>
-<h3 align="center">A passionate full-stack developer from Nigeria</h3>
-</head>
-<hr style="blue;">
 
 
-
+<h1>Hey, how;s it going? I,m Sodiq 👋🏾</h1>
+<P> I,m a Full stack Developer</P> <br>
+<P>Pronouns are: He/ogbeni</P>
 
 <!--
 **Saadiq-Byte/saadiq-Byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,23 +10,27 @@
 Here are some ideas to get you started:-->
 
   
-- 🔭 I’m currently working on **Personal branding**
+- 🔭 I’m currently working on rebuilding y porfolio website
 
-- 🌱 I’m currently learning **HTML/CSS, and JavaScript**
+- 🌱 I’m currently learning JavaScript
 
-- 👯 My Area of interest  **Web & App Development | Cloud computing **
+-  🤔 I'm looking for help with creating a robust portfolio and learning Data structures
 
-- 🤝 I’m looking for help with **Internships | Foreign & Local Jobs | general contracts**
+- 👯 My Area of interest  Web & App Development | Cloud computing 
 
-- 👨‍💻 All of my projects are available at [In Progress](In Progress)
+- 👨‍💻 All of my projects are available at (In Progress)
 
 - 📫 You got something to share ? <a href="mailto:Badejosodiq11@gmail.com">Send  me an Email</a>
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1RroXXHrPoFqYLjueH1P-4Ys2DeNFWM4-1dQHru8tg6c/edit?usp=sharing" class="button">Download Resume</a>
 
-- ⚡ Fun fact **I,m great dancer.. you want to challenge? Lol?**
+- ⚡ Fun fact: I'm a Power plant Engineer!
   
-  </div>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadiq-byte&show_icons=true&locale=en" alt="saadiq-byte" /></p>
+  
+<p align="left"> <a href="https://twitter.com/ogbenisodiq" target="blank"><img src="https://img.shields.io/twitter/follow/ogbenisodiq?logo=twitter&style=for-the-badge" alt="ogbenisodiq" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadiq-byte&label=Profile%20views&color=0e75b6&style=flat" alt="saadiq-byte" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,6 +52,6 @@ Here are some ideas to get you started:-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadiq-byte&show_icons=true&locale=en&layout=compact" alt="saadiq-byte" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadiq-byte&show_icons=true&locale=en" alt="saadiq-byte" /></p>
+
 
 </body>
