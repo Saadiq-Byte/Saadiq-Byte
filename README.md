@@ -1,9 +1,5 @@
 ![image](https://drive.google.com/file/d/1Ufr1Ft0VE8xKsUTZ_4hpc8clhYZczUbv/view?usp=sharing)
 
-## Hi there 👋 I,m Sodiq Badejo
-
-### Now that you are here, let me show you around ! 
-
 <!--
 **Saadiq-Byte/saadiq-Byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
