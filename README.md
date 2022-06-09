@@ -1,5 +1,5 @@
 <head>
-<img src="https://drive.google.com/file/d/1Ufr1Ft0VE8xKsUTZ_4hpc8clhYZczUbv/view?usp=sharing" style="max-width: 100%;">
+![Web App developer (1)](https://user-images.githubusercontent.com/85496076/172890141-e180b737-3998-450a-afde-ef54bc827974.png)
 
 <h1 align="center">Hi there 👋 I,m Sodiq Badejo</h1>
 <h3 align="center">A passionate full-stack developer from Nigeria</h3>
