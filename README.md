@@ -1,15 +1,16 @@
-![image](https://drive.google.com/file/d/1Ufr1Ft0VE8xKsUTZ_4hpc8clhYZczUbv/view?usp=sharing)
+<h1 align="center">Hi there 👋 I,m Sodiq Badejo</h1>
+<h3 align="center">A passionate full-stack developer from Nigeria</h3>
+
+<hr style="blue;">
+
+<img src="https://drive.google.com/file/d/1Ufr1Ft0VE8xKsUTZ_4hpc8clhYZczUbv/view?usp=sharing" style="max-width: 100%;">
+
 
 <!--
 **Saadiq-Byte/saadiq-Byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
- <body style="background-color:grey">
--<h1 align="center">Hi there 👋 I,m Sodiq Badejo</h1>
-<h3 align="center">A passionate full-stack developer from Nigeria</h3>
-
-<hr style="blue;">
   
 - 🔭 I’m currently working on **Personal branding**
 
