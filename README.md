@@ -5,11 +5,12 @@
 
 Here are some ideas to get you started:-->
 
+ <body style="background-color:grey">
 -<h1 align="center">Hi there 👋 I,m Sodiq Badejo</h1>
 <h3 align="center">A passionate full-stack developer from Nigeria</h3>
 
-<hr style=>
-
+<hr style="blue;">
+  
 - 🔭 I’m currently working on **Personal branding**
 
 - 🌱 I’m currently learning **HTML/CSS, and JavaScript**
@@ -25,6 +26,8 @@ Here are some ideas to get you started:-->
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1RroXXHrPoFqYLjueH1P-4Ys2DeNFWM4-1dQHru8tg6c/edit?usp=sharing" class="button">Download Resume</a>
 
 - ⚡ Fun fact **I,m great dancer.. you want to challenge? Lol?**
+  
+  </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,3 +49,4 @@ Here are some ideas to get you started:-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadiq-byte&show_icons=true&locale=en" alt="saadiq-byte" /></p>
 
+</body>
