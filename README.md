@@ -1,9 +1,12 @@
+<head>
+<img src="https://drive.google.com/file/d/1Ufr1Ft0VE8xKsUTZ_4hpc8clhYZczUbv/view?usp=sharing" style="max-width: 100%;">
+
 <h1 align="center">Hi there 👋 I,m Sodiq Badejo</h1>
 <h3 align="center">A passionate full-stack developer from Nigeria</h3>
-
+</head>
 <hr style="blue;">
 
-<img src="https://drive.google.com/file/d/1Ufr1Ft0VE8xKsUTZ_4hpc8clhYZczUbv/view?usp=sharing" style="max-width: 100%;">
+
 
 
 <!--
