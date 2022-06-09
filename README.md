@@ -24,7 +24,7 @@ Here are some ideas to get you started:-->
 
 - 📫 You got something to share ? <a href="mailto:Badejosodiq11@gmail.com">Send  me an Email</a>
 
-- 📄 Know about my experiences   [https://docs.google.com/document/d/1RroXXHrPoFqYLjueH1P-4Ys2DeNFWM4-1dQHru8tg6c/edit?usp=sharing](https://docs.google.com/document/d/1RroXXHrPoFqYLjueH1P-4Ys2DeNFWM4-1dQHru8tg6c/edit?usp=sharing)
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1RroXXHrPoFqYLjueH1P-4Ys2DeNFWM4-1dQHru8tg6c/edit?usp=sharing" class="button">Download Resume</a>
 
 - ⚡ Fun fact **I,m great dancer.. you want to challenge? Lol?**
 
