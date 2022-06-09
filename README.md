@@ -20,7 +20,7 @@ Here are some ideas to get you started:-->
 
 - 👨‍💻 All of my projects are available at (In Progress)
 
-- 📫 You got something to share ? <a href="mailto:Badejosodiq11@gmail.com">Send  me an Email</a>
+- 📫 You got something to share ? <a href="mailto:sodiq-work@hotlook.com">Send  me an Email</a>
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1RroXXHrPoFqYLjueH1P-4Ys2DeNFWM4-1dQHru8tg6c/edit?usp=sharing" class="button">Download Resume</a>
 
