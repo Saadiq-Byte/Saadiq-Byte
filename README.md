@@ -41,13 +41,4 @@ Here are some ideas to get you started:-->
 <a href="https://codepen.io/https://codepen.io/code_engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/code_engineer" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/ogbenisodiq" target="blank"><img src="https://img.shields.io/twitter/follow/ogbenisodiq?logo=twitter&style=for-the-badge" alt="ogbenisodiq" /></a> </p>
-
-<div align="center">
-<h3 align="left">Languages and Tools:</h3>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadiq-byte&show_icons=true&locale=en&layout=compact" alt="saadiq-byte" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadiq-byte&label=Profile%20views&color=0e75b6&style=flat" alt="saadiq-byte" /> </p>
