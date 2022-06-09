@@ -1,24 +1,13 @@
-![image](https://drive.google.com/file/d/1Ufr1Ft0VE8xKsUTZ_4hpc8clhYZczUbv/view?usp=sharing)
-
-## Hi there 👋 I,m Sodiq Badejo
-
-### Now that you are here, let me show you around ! 
-
+<img src="https://drive.google.com/file/d/1Ufr1Ft0VE8xKsUTZ_4hpc8clhYZczUbv/view?usp=sharing" alt="">
 <!--
 **Saadiq-Byte/saadiq-Byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-
-<Header>(http://url/https://drive.google.com/file/d/1Ufr1Ft0VE8xKsUTZ_4hpc8clhYZczUbv/view?usp=sharing)</header>
--<h1 align="center">Hi 👋, I'm Sodiq Badejo</h1>
+-<h1 align="center">👋 Hi there, I'm Sodiq Badejo</h1>
 <h3 align="center">A passionate full-stack developer from Nigeria</h3>
+<h4 align="center">Now that you are here, let me show you around!</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadiq-byte&label=Profile%20views&color=0e75b6&style=flat" alt="saadiq-byte" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadiq-byte" alt="saadiq-byte" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ogbenisodiq" target="blank"><img src="https://img.shields.io/twitter/follow/ogbenisodiq?logo=twitter&style=for-the-badge" alt="ogbenisodiq" /></a> </p>
-
+<hr>
 - 🔭 I’m currently working on **Personal branding**
 
 - 🌱 I’m currently learning **HTML/CSS, and JavaScript**
@@ -29,9 +18,9 @@ Here are some ideas to get you started:-->
 
 - 👨‍💻 All of my projects are available at [In Progress](In Progress)
 
-- 📫 How to reach me **Badejosodiq11@gmail.com**
+- 📫 You want to reach out ? <a href="mailto:Badejosodiq11@gmail.com">Send me an Email</a>
 
-- 📄 Know about my experiences [Download my Resume] [https://docs.google.com/document/d/1RroXXHrPoFqYLjueH1P-4Ys2DeNFWM4-1dQHru8tg6c/edit?usp=sharing](https://docs.google.com/document/d/1RroXXHrPoFqYLjueH1P-4Ys2DeNFWM4-1dQHru8tg6c/edit?usp=sharing)
+- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1RroXXHrPoFqYLjueH1P-4Ys2DeNFWM4-1dQHru8tg6c/edit?usp=sharing" class="button">Download Resume</a>
 
 - ⚡ Fun fact **I,m great dancer.. you want to challenge? Lol?**
 
