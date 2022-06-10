@@ -14,7 +14,7 @@
 
 -  🤔 I'm looking for help with creating a robust portfolio and learning Data structures
 
-- 👯 My Area of interest  Web & App Development | Cloud computing 
+- 👯 My Area of interest are: Web & App Development | Cloud computing 
 
 - 👨‍💻 All of my projects are available at (In Progress)
 
