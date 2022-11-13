@@ -10,11 +10,11 @@
   
 - 🔭 I’m currently working on rebuilding my porfolio website
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m Currently into Energy Analyst where i use SQL/Python
 
 -  🤔 I'm looking for help with creating a robust portfolio and learning Data structures
 
-- 👯 My Area of interest are: Web & App Development | Cloud computing 
+- 👯 My Area of interest are: Energy analyst | Cloud computing 
 
 - 👨‍💻 All of my projects are available at (In Progress)
 
@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1LloztEkLoL09S1qciKZfFfKrFRVttDAs/view?usp=sharing" class="button">Download Resume</a>
 
-- ⚡ Fun fact: I'm a Power plant Engineer!
+- ⚡ Fun fact: I'm a Power plant Engineer by day, Analyst by Night.
    
   [![Sodiq's github stats](https://github-readme-stats.vercel.app/api?username=saadiq-byte&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/saadiq-byte/github-readme-stats)
   
