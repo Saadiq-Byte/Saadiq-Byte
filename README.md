@@ -1,7 +1,7 @@
 
 
 <h1>Hey, how's it going? I'm Sodiq 👋🏾</h1>
-<P> I'm Data Analyst / Front-End Developer</P> <br>
+<P> I'm a Data Analyst / Front-End Developer</P> <br>
 <P>Pronouns are: He/ogbeni</P>
 
 <!--
