@@ -2,7 +2,7 @@
 
 <h1>Hey, how's it going? I'm Sodiq 👋🏾</h1>
 <P> I'm a Data Analyst / Front-End Developer</P> <br>
-<P>Pronouns are: He/ogbeni</P>
+<P>Pronouns are: He/Mr/Ogbeni</P>
 
 <!--
 **Saadiq-Byte/saadiq-Byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile :-->
