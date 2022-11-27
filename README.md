@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1LloztEkLoL09S1qciKZfFfKrFRVttDAs/view?usp=sharing" class="button">Download Resume</a>
 
-- ⚡ Fun fact: I'm a Power plant Engineer by day, Analyst by Night..
+- ⚡ Fun fact: I'm a Power plant Engineer by day, Analyst by Night.
    
   [![Sodiq's github stats](https://github-readme-stats.vercel.app/api?username=saadiq-byte&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/saadiq-byte/github-readme-stats)
   
