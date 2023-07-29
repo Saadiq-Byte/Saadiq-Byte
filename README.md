@@ -1,6 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sodiq, a Frontend Dev | Technical Writer devoted to accessible web experiences, seamless UIs, and fostering tech communities.👨‍👩‍👦‍👦
 
- ## 😎 I love sharing my knowledge on the things I have learned, When I'm not coding, you can find me learning something on youtube or listening to music.
+ ## 😎 
+ I love sharing my knowledge on the things I have learned, When I'm not coding, you can find me learning something on youtube or listening to music. 
 
 
 - 😄 My Pronouns: He/Him   
