@@ -1,14 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sodiq, a Frontend Dev | Technical Writer devoted to accessible web experiences, seamless UIs, and fostering tech communities.👨‍👩‍👦‍👦
 
  ## 😎 
- I love sharing my knowledge on the things I have learned, When I'm not coding, you can find me learning something on youtube or listening to music. 
+ I love sharing my knowledge on the things I have learned, During my non-coding hours, I delve into the world of culinary art with my cherished wife, crafting delightful experiences through cooking together.
 
 
 - 😄 My Pronouns: He/Him   
 - 💬 Ask me about: React, Technical Writer, Webflow.
 - 👯 I’m looking to work on more exciting project to boost my **tech stack**
 - 📫 How to reach me: [@OgbeniSodiq](https://twitter.com/OgbeniSodiq_)
-- ⚡ Fun fact: I enjoy cooking, eating, visiting beautiful places and taking pictures.
+- ⚡ Fun fact: Cooking with my wife for delightful culinary experiences, eating, visiting beautiful places and taking pictures.
 
 
 ## 🚀 Languages and Tools:
