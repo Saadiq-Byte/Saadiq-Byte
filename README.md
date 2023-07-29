@@ -1,40 +1,29 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sodiq, a Frontend Dev | Technical Writer devoted to accessible web experiences, seamless UIs, and fostering tech communities.
+
+## 😎
+I love sharing my knowledge on the things I have learned, When I'm not coding, you can find me learning something on youtube or listening to music.
 
 
-<h1>Hey, how's it going? I'm Sodiq 👋🏾</h1>
-<P> I'm a Data Analyst / Front-End Developer</P> <br>
-<P>Pronouns are: He/Mr/Ogbeni</P>
-
-<!--
-**Saadiq-Byte/saadiq-Byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile :-->
-
-  
-- 🔭 I’m currently working on rebuilding my porfolio website
-
-- 🌱 I’m Currently into Energy Analyst where i use SQL/Python
-
--  🤔 I'm looking for help with creating a robust portfolio and learning Data structures
-
-- 👯 My Area of interest are: Energy analyst | Cloud computing 
-
-- 👨‍💻 All of my projects are available at (In Progress)
-
-- 📫 You got something to share ? <a href="mailto:badejosodiq11@gmail.com">Send  me an Email</a>
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1LloztEkLoL09S1qciKZfFfKrFRVttDAs/view?usp=sharing" class="button">Download Resume</a>
-
-- ⚡ Fun fact: I'm a Power plant Engineer by day, Analyst by Night.
-   
-  [![Sodiq's github stats](https://github-readme-stats.vercel.app/api?username=saadiq-byte&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/saadiq-byte/github-readme-stats)
-  
-<!-- social section  -->
-<h3 align="left">Connect with me:</h3> 
-
-<!-- twitter link profie -->
-<a href="https://twitter.com/ogbenisodiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ogbenisodiq" height="30" width="40" /></a> 
+- 😄 My Pronouns: He/Him   
+- 💬 Ask me about: React, Technical Writer, Webflow.
+- 👯 I’m looking to work on more exciting project to boost my **tech stack**
+- 📫 How to reach me: [@OgbeniSodiq](https://twitter.com/OgbeniSodiq_)
+- ⚡ Fun fact: I enjoy cooking, eating, visiting beautiful places and taking pictures.
 
 
-<!-- codepan link profile -->
-<a href="https://codepen.io/https://codepen.io/code_engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/code_engineer" height="30" width="40" /></a>
-
-<!--profile visit count  -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadiq-byte&label=Profile%20views&color=0e75b6&style=flat" alt="saadiq-byte" /> </p>
+## 🚀 Languages and Tools:
+<p align="left"> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"/> </a>
+    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="40" height="40" alt="tailwind" /> </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase"/> </a> 
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux"/> </a>
+    <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gatsbyjs.png" alt="gatsby" width="40" height="40"/> </a>
+    <a href="https://webflow.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/webflow.png" alt="webflow" width="40" height="40"/> </a>
+    <a href="https://wordpress.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="wordpress" width="40" height="40"/> </a>
+</p>
